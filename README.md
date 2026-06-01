@@ -14,5 +14,5 @@
 [<img align="left" alt="ChristopherSumerlin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [x]: https://x.com/BowzaDark9634
-[instagram]: https://www.instagram.com/JaneDoe
-[linkedin]: https://linkedin.com/in/JaneDoe
+[instagram]: https://www.instagram.com/DarkLordBowza
+[linkedin]: https://www.linkedin.com/in/christopher-sumerlin-710643197/
